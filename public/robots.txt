@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://poke.siyoz.net/sitemap_sitemap.xml

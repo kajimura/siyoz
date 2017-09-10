@@ -1,0 +1,21 @@
+p-go-searchのモンスター画像がおかしくなったのを直す方法
+
+<img src="/assets/poke/pgo_error.png" />
+
+左下にある設定をクリックします。
+<img src="/assets/poke/pgo_setting.png" />
+
+カスタムアイコンファイルのURL
+
+http://muketsu2nd.xsrv.jp/pokemonimage/t@ID3@.png
+
+カスタム種類名ファイルのURL
+
+http://0926cookie.me/files/PGO/name.txt
+
+<img src="/assets/poke/pgo_success.png" />
+直りました。
+
+
+
+
